@@ -119,8 +119,8 @@ export PATH=$ANDROID_HOME/emulator:$ANDROID_HOME/platform-tools:$PATH
 ### Exemplo Rápido de Execução
 
 ```bash
-chmod +x android_emulator_menu.sh
-./android_emulator_menu.sh
+chmod +x android_emulator.sh
+./android_emulator.sh
 # Escolha opção 1
 # Digite o nome do AVD: pixel_7
 # Aguarde instalação e criação
