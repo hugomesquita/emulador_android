@@ -18,7 +18,9 @@ function instalar() {
     return
   fi
 
-  echo "Instalando dependências do sistema necessárias..."
+
+  # TODO: Aqui pode ficar uma verificação se o usuário tem java instalado ou não, implementar essa funcionalidade no futuro.
+  echo "Instalando dependências do sistema necessárias..." 
   sudo dnf install -y zip unzip qemu-kvm libvirt virt-manager
 
   # Verificar suporte a virtualização KVM
