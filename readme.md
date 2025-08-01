@@ -53,7 +53,6 @@ Você verá as opções:
 
 Escolha a opção desejada digitando o número correspondente.
 
-
 ## Instalação e Inicialização do Android Emulator (Opção 1)
 - Informe o nome que deseja dar para seu AVD (exemplo: pixel_7).
 - O script irá instalar dependências, baixar ferramentas, aceitar licenças e criar o AVD.
